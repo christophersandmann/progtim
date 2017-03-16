@@ -1,12 +1,11 @@
-RUN THE APP
+TODOs
 ===
-To run your app on iOS:
-   cd C:\Users\Chris\AppData\Local\Temp\1488394454870-0\progtim
-   react-native run-ios
-   - or -
-   Open ios\progtim.xcodeproj in Xcode
-   Hit the Run button
-To run your app on Android:
-   cd C:\Users\Chris\AppData\Local\Temp\1488394454870-0\progtim
-   Have an Android emulator running (quickest way to get started), or a device connected
-   react-native run-android
+* Create Layout
+* Check calendar-components
+* Create Progs (Name, Target, Part-Target)
+* Create Prog-Detail-Page (with Timer)
+
+
+Before Launch
+===
+* Link Component Library "NativeBase" to React Native ("react-native link")
